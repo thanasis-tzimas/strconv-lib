@@ -1,5 +1,5 @@
-#ifndef _CONV_H_
-#define _CONV_H_
+#ifndef _STRCONV_H_
+#define _STRCONV_H_
 
 #include <math.h>
 #include <string.h>
